@@ -7,7 +7,7 @@ public class ProductOfElements
 	public static void main(String []args)
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter the Element:");
+		System.out.println("Enter the Size:");
 		int size = sc.nextInt();
 		int a[] = new int[size];
 		for (int i=0; i<size; i++)
